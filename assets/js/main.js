@@ -191,7 +191,7 @@
 						$submit.disabled = false;
 
 						// Show message.
-						$message._show('success', 'Reached to destination!');
+						$message._show('success', 'Reached the destination!');
 					} else {
 						// Show failure message.
 						$message._show('failure', 'Something went wrong. Please try again.');
