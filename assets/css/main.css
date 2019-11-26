@@ -824,7 +824,7 @@ button,
       -webkit-flex-direction: column;
       -ms-flex-direction: column;
       flex-direction: column; }
-      #time-console-form input[type="type"],
+      #time-console-form input[type="text"],
       #time-console-form input[type="password"],
       #time-console-form input[type="email"],
       #time-console-form input[type="date"] {
