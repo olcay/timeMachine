@@ -1,5 +1,10 @@
 [
     {
+        "date": "2019-01-03",
+        "beforeText": "Nothing has ever landed on the far side of the Moon yet.",
+        "afterText": "Chinese probe Chang'e 4 becomes the first human-made object to land on the far side of the Moon."
+    },
+    {
         "date": "1995-03-22",
         "beforeText": "Cosmonaut Valeri Polyakov is going to outer space.",
         "afterText": "Cosmonaut Valeri Polyakov returned after setting a record for 438 days in outer space."
