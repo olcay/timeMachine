@@ -1,0 +1,17 @@
+[
+    {
+        "date": "1989-01-01",
+        "beforeText": "No one knows what is the internet yet.",
+        "afterText": "Time Berners-Lee proposed The World Wide Web at CERN."
+    },
+    {
+        "date": "1960-01-01",
+        "beforeText": "No one knows what is cloud computing yet.",
+        "afterText": "Cloud computing is just started."
+    },
+    {
+        "date": "1564-01-01",
+        "beforeText": "No one knows who is William Shakespeare yet.",
+        "afterText": "William Shakespeare is entertaining people."
+    }
+]
