@@ -1,5 +1,15 @@
 [
     {
+        "date": "1995-3-22",
+        "beforeText": "Cosmonaut Valeri Polyakov is going to outer space.",
+        "afterText": "Cosmonaut Valeri Polyakov returned after setting a record for 438 days in outer space."
+    },
+    {
+        "date": "1989-11-9",
+        "beforeText": "The Berlin Wall divided one side of the city from the other.",
+        "afterText": "The Berlin Wall was gone and Berlin was united."
+    },
+    {
         "date": "1989-01-01",
         "beforeText": "No one knows what is the internet yet.",
         "afterText": "Time Berners-Lee proposed The World Wide Web at CERN."
@@ -8,6 +18,16 @@
         "date": "1960-01-01",
         "beforeText": "No one knows what is cloud computing yet.",
         "afterText": "Cloud computing is just started."
+    },
+    {
+        "date": "1929-10-21",
+        "beforeText": "Ursula Kroeber Le Guin is not born yet.",
+        "afterText": "Acclaimed writer Ursula Kroeber Le Guin was born."
+    },
+    {
+        "date": "1889-9-23",
+        "beforeText": "Nintendo is not founded yet.",
+        "afterText": "Nintendo was founded as a playing card company."
     },
     {
         "date": "1564-01-01",
