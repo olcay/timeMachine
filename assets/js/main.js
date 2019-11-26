@@ -198,7 +198,7 @@
 					}
 				}
 			};
-			$xmlhttp.open("GET", $url, true);
+			$xmlhttp.open("GET", $url + '?_=' + new Date().getTime(), true);
 			$xmlhttp.send();
 
 		});
